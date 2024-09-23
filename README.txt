@@ -3,3 +3,6 @@
 
 # UPDATE
   The updates to this file is located in the version folder.
+
+# UNINSTALL
+  To uninstall package, ensure that all the dependencies are checked.
